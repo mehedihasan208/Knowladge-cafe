@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1001,
+      "cover": "https://i.ibb.co/QbMQkZt/1.jpg",
+      "title": "The Enigmatic Adventure",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/6FvWwPK/boy1.png",
+      "posted_date": "2023-03-15",
+      "reading_time": 2,
+      "hashtags": ["Adventure", "Mystery", "Fiction"]
+    },
+    {
+      "id": 2002,
+      "cover": "https://i.ibb.co/L00RcHX/2.png",
+      "title": "Secrets of the Lost City",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/1f3vDzy/boy2.jpg",
+      "posted_date": "2023-04-22",
+      "reading_time": 3.5,
+      "hashtags": ["Archaeology", "Adventure", "Thriller"]
+    },
+    {
+      "id": 3003,
+      "cover": "https://i.ibb.co/JmY9Jpy/3.png",
+      "title": "The Galactic Odyssey",
+      "author": "Samantha Green",
+      "author_img": "https://i.ibb.co/HD7s05L/girl1.jpg",
+      "posted_date": "2023-05-10",
+      "reading_time": 4,
+      "hashtags": ["ScienceFiction", "Space", "Exploration"]
+    },
+    {
+      "id": 4004,
+      "cover": "https://i.ibb.co/PCg9msw/4.jpg",
+      "title": "Recipes from the Heart",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/fCc1CP4/girl2.jpg",
+      "posted_date": "2023-06-18",
+      "reading_time": 1.5,
+      "hashtags": ["Cookbook", "Recipes", "Foodie"]
+    }
+   
+  ]
+  
